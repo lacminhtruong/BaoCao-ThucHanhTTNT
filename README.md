@@ -19,7 +19,7 @@ Sử dụng thuật toán tìm kiếm để đưa bảng số từ trạng thái
   - In ra từng bước di chuyển để dẫn đến kết quả.
 - **Thư mục:** `Buoi02/`
 - **Demo:**
-  ![Demo N-Puzzle](Buoi02/ketqua.png)
+  ![Demo N-Puzzle](Buoi02/Ket_Qua.pdf)
 
 ### 2. Bài tập 2: Cờ Caro (Tic-Tac-Toe) $N \times N$ với AI
 Xây dựng AI chơi cờ Caro bất bại (hoặc khó đánh bại) với người chơi.
@@ -30,7 +30,7 @@ Xây dựng AI chơi cờ Caro bất bại (hoặc khó đánh bại) với ngư
   - Giao diện Console trực quan, hiển thị bàn cờ sau mỗi nước đi.
 - **Thư mục:** `Buoi03/`
 - **Demo:**
-  ![Demo Tic-Tac-Toe](Buoi03/ketqua.png)
+  ![Demo Tic-Tac-Toe](Buoi03/Ket_Qua.pdf)
 
 ### 3. Bài tập 3: Tô màu đồ thị & Bài toán Người du lịch (TSP)
 Giải quyết hai bài toán kinh điển trên đồ thị có sử dụng thư viện đồ họa `ColabTurtle`.
@@ -42,7 +42,7 @@ Giải quyết hai bài toán kinh điển trên đồ thị có sử dụng th�
   - **Thuật toán:** Vét cạn (Brute Force) - Tìm kiếm toàn cục.
 - **Thư mục:** `Buoi04/`
 - **Demo:**
-  ![Demo Graph](Buoi04/ketqua.png)
+  ![Demo Graph](Buoi04/KetQua.pdf)
 
 ---
 
