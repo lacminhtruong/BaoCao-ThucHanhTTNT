@@ -17,9 +17,9 @@ Sử dụng thuật toán tìm kiếm để đưa bảng số từ trạng thái
   - Hỗ trợ nhập kích thước bàn cờ $N \times N$ (3x3, 4x4...).
   - Sử dụng Heuristic (số ô sai vị trí) để tìm đường đi tối ưu.
   - In ra từng bước di chuyển để dẫn đến kết quả.
-- **Thư mục:** `BaiTap1/` (hoặc `Buoi02/`)
+- **Thư mục:** `Buoi02/`
 - **Demo:**
-  ![Demo N-Puzzle](BaiTap1/ketqua.png)
+  ![Demo N-Puzzle](Buoi02/ketqua.png)
 
 ### 2. Bài tập 2: Cờ Caro (Tic-Tac-Toe) $N \times N$ với AI
 Xây dựng AI chơi cờ Caro bất bại (hoặc khó đánh bại) với người chơi.
@@ -28,9 +28,9 @@ Xây dựng AI chơi cờ Caro bất bại (hoặc khó đánh bại) với ngư
   - Tùy chỉnh kích thước bàn cờ (3x3, 4x4, 5x5...).
   - **Giới hạn độ sâu (Depth Limit):** Giúp AI tính toán nhanh kể cả với bàn cờ lớn ($4 \times 4$ trở lên).
   - Giao diện Console trực quan, hiển thị bàn cờ sau mỗi nước đi.
-- **Thư mục:** `BaiTap2/` (hoặc `Buoi03/`)
+- **Thư mục:** `Buoi03/`
 - **Demo:**
-  ![Demo Tic-Tac-Toe](BaiTap2/ketqua.png)
+  ![Demo Tic-Tac-Toe](Buoi03/ketqua.png)
 
 ### 3. Bài tập 3: Tô màu đồ thị & Bài toán Người du lịch (TSP)
 Giải quyết hai bài toán kinh điển trên đồ thị có sử dụng thư viện đồ họa `ColabTurtle`.
@@ -40,9 +40,9 @@ Giải quyết hai bài toán kinh điển trên đồ thị có sử dụng th�
 - **Phần B: Bài toán Người du lịch (TSP)**
   - **Mục tiêu:** Tìm lộ trình ngắn nhất đi qua tất cả thành phố và quay về điểm xuất phát.
   - **Thuật toán:** Vét cạn (Brute Force) - Tìm kiếm toàn cục.
-- **Thư mục:** `BaiTap3/`
+- **Thư mục:** `Buoi04/`
 - **Demo:**
-  ![Demo Graph](BaiTap3/ketqua.png)
+  ![Demo Graph](Buoi04/ketqua.png)
 
 ---
 
